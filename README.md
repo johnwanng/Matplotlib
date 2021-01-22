@@ -1,6 +1,6 @@
 ## Introduction
 
-This exercise requires the use of pandas library, Jupyter Notebook and Matplotlib libraries to analyse the tumor growth in 249 mice after taken the drug of interest, Capomulin, against the other treatment regimens. This exercise will include and required the following tasks: 
+This exercise requires the use of pandas library, Jupyter Notebook and Matplotlib libraries to analyse the tumor growth in 249 mice after taken the drug of interest, Capomulin, against the other treatment regimens. This exercise will include and require the following actions/tasks: 
 
 1. Identify and remove any duplicate data.
 
